@@ -19,7 +19,7 @@ Grey box is known as a Port to any node, mouse-down on the Port and drag the Lin
 
 * You can copy any image from other websites and do <b>"Ctrl V"</b> to paste on Canvas,  
 in cases when you can't find an Node that suits your need
-<img src="./imgs/../../imgs/tutorial-copyimageotherwebsite.png" width="400" height="230" />   
+<img src="./imgs/../../imgs/tutorial-copyimageotherwebsite.png" width="600" height="300" />   
 
 * "Ctrl C" on one or multi-selected nodes and "Ctrl V" to duplicate selected nodes.
 * You can copy nodes from Microsoft Visio and do <b>"Ctrl V"</b> to paste on Canvas  
