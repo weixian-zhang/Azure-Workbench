@@ -23,8 +23,9 @@ in cases when you can't find an Node that suits your need
 
 * "Ctrl C" on one or multi-selected nodes and "Ctrl V" to duplicate selected nodes.
 * You can copy nodes from Microsoft Visio and do <b>"Ctrl V"</b> to paste on Canvas  
-</br>
-**Panning (move canvas view)**  
+
+
+**Panning (move canvas view)**   
 Hold on to Right-mouse button and move mouse to shift canvas view. Canvas has unlimited space for drawing  
 
 **Zoom**  
