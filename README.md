@@ -15,7 +15,7 @@ Please create issues for bugs and feature requests, appreaciate your feedback.
 ## Drawing Diagrams
 
 You can start drawing from scratch by dragging nodes from Resource Palette onto canvas or load diagrams from QuickStart Template \
-<img src="./imgs/draw-rp-qt.png" width="600" height="250">
+<img src="./imgs/draw-rp-qt.png" width="700" height="350">
 
 ## Deploy Diagrams to your Azure Subscriptions
 
