@@ -6,5 +6,5 @@ Visit [Workbench](https://www.azureworkbench.com/) and give ut a try.
 ## Drawing Diagrams
 
 You can start from scratch by dragging out nodes from Resource Palette or load diagrams from QuickStart Template \
-![](https://github.com/weixian-zhang/Azure-Workbench/ims/[branch]/draw-rp-qt.png?raw=true)
+![](https://github.com/weixian-zhang/Azure-Workbench/ims/Azure-Workbench/draw-rp-qt.png?raw=true)
 
