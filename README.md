@@ -53,14 +53,14 @@ After Sign-In and admin consent granted, select Subscription to deploy diagram.
 Even if you don't wish to deploy diagrams, you can still use Workbench to share and discuss deployment properties  
 to your team mates and customers. This can greatly reduce deployment errors and better improve implementation experience.  
 
-<img src="./imgs/draw-resourcevalidation.png" width="600" height="250" />  
+<img src="./imgs/draw-resourcevalidation.png" width="700" height="340" />  
 Validate certain Azure resources must be in a Subnet
 </br>
 </br> 
-<img src="./imgs/deploy-nsg.png" width="700" height="280" />  
+<img src="./imgs/deploy-nsg.png" width="700" height="340" />  
 Create NSG security rules on Workbench, Service Tags is supported
 </br>
 </br>
-<img src="./imgs/deploy-vmprop.png" width="700" height="280" />  
+<img src="./imgs/deploy-vmprop.png" width="700" height="360" />  
 Workbench supports creation of VMs with selectable Location, VM Images and Sizes
 
