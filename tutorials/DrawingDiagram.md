@@ -33,10 +33,10 @@ Hold "Control" key and Mouse Wheel Up/Down to zoom in/out
 
 **Group & Ungroup**  
 * To group  1 or more nodes, select 1 or more nodes and right-click _on canvas or on any node_ and click "Group"  
-Or press "Ctrl+G" to group nodes.
-</br>
+Or press "Ctrl+G" to group nodes.  
+
 * To ungroup, simply select the group, right-click and click Ungroup.  
-  Or press Ctrl+Shift+G.
+  Or press Ctrl+Shift+G.  
 
 **Virtual Network: Add Subnet or Nat Gateway**  
 Right-click on Virtual Network (drag from Resource Palette "Networking") and  
