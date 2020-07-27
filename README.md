@@ -1,10 +1,10 @@
 # Azure Workbench
 
 Azure Workbench is a web tool that allows you to draw and share Azure diagrams. \
-Visit [Workbench](https://www.azureworkbench.com/) and give ut a try.
+Visit [Workbench](https://www.azureworkbench.com/) and give it a try.
 
 ## Drawing Diagrams
 
-You can start from scratch by dragging out nodes from Resource Palette or load diagrams from QuickStart Template \
-![](https://github.com/weixian-zhang/Azure-Workbench/imgs/Azure-Workbench/draw-rp-qt.png?raw=true)
+You can start drawing from scratch by dragging nodes from Resource Palette onto canvas or load diagrams from QuickStart Template \
+![](/imgs/draw-rp-qt.png){:height="700px" width="400px"}
 
