@@ -2,14 +2,16 @@
 
 [Azure Workbench](https://www.azureworkbench.com/) is a web tool that you can draw and share Azure diagrams with.  
 
-**Tutorial** \
+**Tutorial**    
+
 You can find the following tutorial in Workbench.
 * [Drawing Diagram](/tutorials/DrawingDiagram.md)
 * [Shortcut Keys](/tutorials/ShortcutKeys.md)
-* Workbench Features
-* Deploy Diagrams to Azure
+* [Workbench Features](/tutorials/WorkbenchFeatures.md)
+* [Deploy Diagrams to Azure](/tutorials/DeployAzure.md)
 
-**Bugs and Feature Requests** \
+**Bugs and Feature Requests**   
+
 Please create issues for bugs and feature requests, appreaciate your feedback.
 
 ## Drawing Diagrams
@@ -19,7 +21,7 @@ You can start drawing from scratch by dragging nodes from Resource Palette onto 
 
 ## Deploy Diagrams to your Azure Subscriptions
 
-Only resources marked with red badge are deployable. More resources will be made deployable.
+Only resources marked with red badge are deployable and more resources will be made deployable in coming weeks.
 <p align="left">
     <img src="./imgs/draw-rd-redbadge.png" width="150" height="300" align="left" />
 </p>
@@ -38,15 +40,19 @@ Only resources marked with red badge are deployable. More resources will be made
 <br/>
 <br/>
 
-**Prerequisite before deployment**   
-Workbench requires either the Azure AD Global Admin, App Admin or Cloud App Admin \
+**Prerequisite before deployment**  
+
+Workbench requires either your Azure AD Global Admin, App Admin or Cloud App Admin \
 to grant [admin consent](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/grant-admin-consent) so that Workbench can retrieve your Subscription, Resource Group and deploy diagrams to your Azure subscriptions.
-After Sign-In and admin consent granted, select Subscription to deploy diagram.
+After Sign-In and admin consent granted, select Subscription to deploy diagram.  
+
 <img src="./imgs/deploy-subselect.png" width="600" height="250">  
 
 **Share & discuss Azure deployment properties**  
+
 Even if you don't wish to deploy diagrams, you can still use Workbench to share and discuss deployment properties  
 to your team mates and customers. This can greatly reduce deployment errors and better improve implementation experience.  
+
 <img src="./imgs/draw-resourcevalidation.png" width="600" height="250">
 </br>
 </br> 
