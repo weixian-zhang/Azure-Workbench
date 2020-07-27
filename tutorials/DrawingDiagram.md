@@ -19,7 +19,7 @@ Grey box is known as a Port to any node, mouse-down on the Port and drag the Lin
 
 * You can copy any image from other websites and do <b>"Ctrl V"</b> to paste on Canvas,  
 in cases when you can't find an Node that suits your need
-<img src="./imgs/../../imgs/tutorial-copyimageotherwebsite.png" width="400" height="230"> 
+<img src="./imgs/../../imgs/tutorial-copyimageotherwebsite.png" width="400" height="230" /> 
 </br>
 * "Ctrl C" on one or multi-selected nodes and "Ctrl V" to duplicate selected nodes.
 * You can copy nodes from Microsoft Visio and do <b>"Ctrl V"</b> to paste on Canvas
@@ -31,8 +31,11 @@ Hold on to Right-mouse button and move mouse to shift canvas view. Canvas has un
 Hold "Control" key and Mouse Wheel Up/Down to zoom in/out  
 
 **Group & Ungroup**  
-To group  1 or more nodes, right-click on canvas or on any nodes and click "Group"  
+* To group  1 or more nodes, select 1 or more nodes and right-click _on canvas or on any node_ and click "Group"  
 Or press "Ctrl+G" to group nodes.
+</br>
+* To ungroup, simply select the group, right-click and click Ungroup.  
+  Or press Ctrl+Shift+G.
 
 **Virtual Network: Add Subnet or Nat Gateway**  
 Right-click on Virtual Network (drag from Resource Palette "Networking") and  
