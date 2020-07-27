@@ -6,7 +6,7 @@ Visit [Workbench](https://www.azureworkbench.com/) and give it a try.
 **Tutorial** \
 You can find the following tutorial in Workbench.
 * [Drawing Diagram](/tutorials/DrawingDiagram.md)
-* [Shortcut Keys](/tutorials/ShotcurKeys.md)
+* [Shortcut Keys](/tutorials/ShortcutKeys.md)
 * Workbench Features
 * Deploy Diagrams to Azure
 
