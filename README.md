@@ -50,7 +50,7 @@ After Sign-In and admin consent granted, select Subscription to deploy diagram.
 **Share & discuss Azure deployment properties**  
 
 Even if you don't wish to deploy diagrams, you can still use Workbench to share and discuss deployment properties  
-to your team mates and customers. This can greatly reduce deployment errors and better improve implementation experience.  
+with your team mates. This can greatly reduce deployment errors and better improve implementation experience.  
 
 <img src="./imgs/draw-resourcevalidation.png" width="700" height="340" />  
 Validate certain Azure resources must be in a Subnet
