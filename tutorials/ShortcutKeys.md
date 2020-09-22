@@ -7,6 +7,7 @@
 *  Ctrl+Shift+G: Ungroup
 * Alt+A: Open Azure Property pane for Azure resources
 * Alt+S: Open Style pane
+* Alt+X: Animate link
 *  Shift+R: Open/Close Resource Palette
 *  Del: Delete one or more selected nodes
 *  Up: Move one or more selected nodes up by 2 pixels
