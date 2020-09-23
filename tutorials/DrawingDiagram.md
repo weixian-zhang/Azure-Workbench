@@ -12,8 +12,8 @@ More Azure nodes are made deployable weekly.
 
 Straight, Bezier(curved) and Orthogonal(segmented) connector line are known as Link.  
 In addition to dragging links onto canvas from Resource Palette, you can directly drag link from any node  
-by <ins>mouse-over North South East West bounds of a node, you will see a grey box apprearing<ins>.  
-Grey box is known as a Port to any node, mouse-down on the Port and drag the Link to any node's Port.  
+by <ins>mouse-over North South East West bounds of a node, you will see a grey box apprearing.  
+Grey box is known as a Port to any node, hold mouse-down on the Port and drag the Link to any node's Port.</ins> 
 
 #### **Copy & Paste**
 
