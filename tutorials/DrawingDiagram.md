@@ -12,24 +12,27 @@ More Azure nodes are made deployable weekly.
 
 Straight, Bezier(curved) and Orthogonal(segmented) connector line are known as Link.  
 In addition to dragging links onto canvas from Resource Palette, you can directly drag link from any node  
-by mouse-over North South East West bounds of a node, you will see a grey box apprearing.  
+by <ins>mouse-over North South East West bounds of a node, you will see a grey box apprearing<ins>.  
 Grey box is known as a Port to any node, mouse-down on the Port and drag the Link to any node's Port.  
 
-**Copy & Paste**
+#### **Copy & Paste**
 
-* You can copy any image from other websites and do <b>"Ctrl V"</b> to paste on Canvas,  
+  * **Copy whole or parts of diagram from another Browser tab**  
+  * **Copy images from any snipping tool or print-screen**
+  * **Copy images from any website**  
+You can copy any image from other websites and do <b>"Ctrl V"</b> to paste on Canvas,  
 in cases when you can't find an Node that suits your need
 <img src="./imgs/../../imgs/tutorial-copyimageotherwebsite.png" width="600" height="300" />   
 
-* "Ctrl C" on one or multi-selected nodes and "Ctrl V" to duplicate selected nodes.
-* You can copy nodes from Microsoft Visio and do <b>"Ctrl V"</b> to paste on Canvas  
+  * "Ctrl C" on one or multi-selected nodes and "Ctrl V" to duplicate selected nodes.
+  * You can copy nodes from Microsoft Visio and do <b>"Ctrl V"</b> to paste on Canvas  
 
 
 **Panning (move canvas view)**   
 Hold on to Right-mouse button and move mouse to shift canvas view. Canvas has unlimited space for drawing  
 
 **Zoom**  
-Hold "Control" key and Mouse Wheel Up/Down to zoom in/out  
+Hold Ctrl + Mouse Wheel Up/Down to zoom in/out where cursor is
 
 **Group & Ungroup**  
 * To group  1 or more nodes, select 1 or more nodes and right-click _on canvas or on any node_ and click "Group"  
