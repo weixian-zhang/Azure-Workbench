@@ -1,6 +1,6 @@
 # Azure Workbench
 
-[Azure Workbench](https://www.azureworkbench.com/) is a web tool for you to draw and share Azure diagrams.  
+[Azure Workbench](https://www.azureworkbench.com/) is a specialized Azure diagram drawing web tool for you to draw, share and also deploy diagrams directly to your Azure Subscriptions.  
 
 **Tutorial**    
 
