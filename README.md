@@ -8,6 +8,7 @@
 **Tutorial**    
 
 * [Shortcut Keys](/tutorials/ShortcutKeys.md)
+* [My Space](/tutorials/MySpace.md)
 * [Workbench Features](/tutorials/WorkbenchFeatures.md)
 * [Drawing Diagram](/tutorials/DrawingDiagram.md)
 
@@ -22,7 +23,7 @@ You can start drawing from scratch by dragging nodes from Resource Palette onto 
 <img src="./imgs/draw-rp-qt.png" width="900" height="600" />
 
 ## Generate Bicep template
-*Only resources marked with red badge are recognized in Bicep generation, more resources will be made available in coming weeks.
+*Only resources marked with <span style="color:red">red badge</span> are recognized in Bicep generation, more resources will be made available in coming weeks.
 <p align="left">
     <img src="./imgs/bicep-main.png" width="900" height="600" />
 </p>
