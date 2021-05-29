@@ -41,7 +41,7 @@ Below shows an example of filling up VM properties for VM image and size.
 Example of NSG Inbound and Outbound rules input.
 <br/>
 <p align="left">
-    <img src="./imgs/bicep-vm-nsg.png" width="900" height="450" />
+    <img src="./imgs/bicep-vm-nsg.png" width="1100" height="600" />
 </p>  
 After entering all necessary Azure properties, click Generate Bicep
 <br/>
