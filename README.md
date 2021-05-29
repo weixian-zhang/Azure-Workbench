@@ -1,6 +1,9 @@
 # Azure Workbench
 
-[Azure Workbench](https://www.azureworkbench.com/) is a specialized Azure diagram drawing web tool for you to draw, share and also deploy diagrams directly to your Azure Subscriptions.  
+[Azure Workbench](https://www.azureworkbench.com/) is a web based Azure diagram drawing tool with features including  
+* validate diagram against Azure validation rules
+* generate Bicep template
+* Save, load and share your diagrams 
 
 **Tutorial**    
 
@@ -13,53 +16,23 @@
 
 Please create issues for bugs and feature requests, appreciate your feedback.
 
-## Drawing Diagrams
+## Drawing Diagram
 
 You can start drawing from scratch by dragging nodes from Resource Palette onto canvas or load diagrams from QuickStart Template \
 <img src="./imgs/draw-rp-qt.png" width="700" height="350">
 
-## Deploy Diagrams to your Azure Subscriptions
-
-Only resources marked with red badge are deployable and more resources will be made deployable in coming weeks.
+## Generate Bicep template
+*Only resources marked with red badge are recognized in Bicep generation, more resources will be made available in coming weeks.
 <p align="left">
-    <img src="./imgs/draw-rd-redbadge.png" width="150" height="300" align="left" />
+    <img src="./imgs/bicep-main.png" width="700" height="400" />
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-**Prerequisite before deployment**  
-
-Workbench requires either your Azure AD Global Admin, App Admin or Cloud App Admin \
-to grant [admin consent](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/grant-admin-consent) so that Workbench can retrieve your Subscription, Resource Group and deploy diagrams to your Azure subscriptions.
-After Sign-In and admin consent granted, select Subscription to deploy diagram.  
-
-<img src="./imgs/deploy-subselect.png" width="600" height="250">  
-
-**Share & discuss Azure deployment properties**  
-
-Even if you don't wish to deploy diagrams, you can still use Workbench to share and discuss deployment properties  
-with your team mates. This can greatly reduce deployment errors and better improve implementation experience.  
-
-<img src="./imgs/draw-resourcevalidation.png" width="700" height="340" />  
-Validate certain Azure resources must be in a Subnet
-</br>
-</br> 
-<img src="./imgs/deploy-nsg.png" width="700" height="340" />  
-Create NSG security rules on Workbench, Service Tags is supported
-</br>
-</br>
-<img src="./imgs/deploy-vmprop.png" width="700" height="360" />  
-Workbench supports creation of VMs with selectable Location, VM Images and Sizes
+Double-click each resource to show its Azure Property Pane, fill up the necessary Azure properties. These property values will be populated in Bicep template.
+Below shows an example of filling up VM properties. VM images and sizes are searchble.
+<p align="left">
+    <img src="./imgs/bicep-vm-searchimage.png" width="700" height="400" />
+</p>
+<p align="left">
+    <img src="./imgs/bicep-vm-searchsize.png" width="700" height="400" />
+</p>
 
