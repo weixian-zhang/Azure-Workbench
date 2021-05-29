@@ -11,7 +11,7 @@ My Space feature requires sign in.
 **Shared Diagrams**  
 <br />
 Any diagram you shared using Share feature after signing in, Workbench auto tracks your shared diagram here.
-Ypu can load and update these shared diagrams, link recipients will be able to see your diagram changes without sharing a new link with them.
+You can load and update these shared diagrams, link recipients will be able to see your diagram changes without sharing a new link with them.
 <br />
 <p align="left">
     <img src="./imgs/myspace-saveddiagrams.png" width="900" height="600" />
