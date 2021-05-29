@@ -7,10 +7,9 @@
 
 **Tutorial**    
 
-* [Drawing Diagram](/tutorials/DrawingDiagram.md)
 * [Shortcut Keys](/tutorials/ShortcutKeys.md)
 * [Workbench Features](/tutorials/WorkbenchFeatures.md)
-* [Deploy Diagrams to Azure](/tutorials/DeployAzure.md)
+* [Drawing Diagram](/tutorials/DrawingDiagram.md)
 
 **Bugs and Feature Requests**   
 
@@ -18,21 +17,29 @@ Please create issues for bugs and feature requests, appreciate your feedback.
 
 ## Drawing Diagram
 
-You can start drawing from scratch by dragging nodes from Resource Palette onto canvas or load diagrams from QuickStart Template \
-<img src="./imgs/draw-rp-qt.png" width="700" height="350">
+You can start drawing from scratch by dragging nodes from Resource Palette onto canvas or load diagrams from QuickStart Templates
+<br/>
+<img src="./imgs/draw-rp-qt.png" width="900" height="600" />
 
 ## Generate Bicep template
 *Only resources marked with red badge are recognized in Bicep generation, more resources will be made available in coming weeks.
 <p align="left">
-    <img src="./imgs/bicep-main.png" width="700" height="400" />
+    <img src="./imgs/bicep-main.png" width="900" height="600" />
 </p>
 <br/>
-Double-click each resource to show its Azure Property Pane, fill up the necessary Azure properties. These property values will be populated in Bicep template.
-Below shows an example of filling up VM properties. VM images and sizes are searchble.
+Double-click each resource to show its Azure Property Pane and fill up the necessary Azure properties.   
+These property values will be populated in Bicep template.
+Below shows an example of filling up VM properties for VM image and size.
+<br/>
 <p align="left">
-    <img src="./imgs/bicep-vm-searchimage.png" width="700" height="400" />
+    <img src="./imgs/bicep-vm-searchimage.png" width="900" height="600" />
 </p>
 <p align="left">
-    <img src="./imgs/bicep-vm-searchsize.png" width="700" height="400" />
+    <img src="./imgs/bicep-vm-searchsize.png" width="900" height="600" />
+</p>  
+Example of NSG Inbound and Outboumd rules input.
+<br/>
+<p align="left">
+    <img src="./imgs/bicep-vm-nsg.png" width="900" height="600" />
 </p>
 
