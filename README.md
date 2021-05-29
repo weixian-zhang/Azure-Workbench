@@ -1,8 +1,8 @@
 # Azure Workbench
 
 [Azure Workbench](https://www.azureworkbench.com/) is a web based Azure diagram drawing tool with features including  
-* validate diagram against Azure validation rules
-* generate Bicep template
+* Validate diagram against Azure resource deployment rules
+* Generate Bicep template
 * Save, load and share your diagrams 
 
 **Tutorial**    
