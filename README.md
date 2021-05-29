@@ -14,16 +14,16 @@
 
 **Bugs and Feature Requests**   
 
-Please create issues for bugs and feature requests, appreciate your feedback.
+&nbsp;&nbsp;&nbsp;&nbsp;Please create issues for bugs and feature requests, appreciate your feedback.
 
 ## Drawing Diagram
 
-You can start drawing from scratch by dragging nodes from Resource Palette onto canvas or load diagrams from QuickStart Templates
+You can start drawing diagram from scratch by dragging icons from Resource Palette on the left onto canvas or load diagrams from QuickStart Templates  
 <br/>
 <img src="./imgs/draw-rp-qt.png" width="900" height="600" />
 
 ## Generate Bicep template
-*Only resources marked with <span style="color:red">red badge</span> are recognized in Bicep generation, more resources will be made available in coming weeks.
+*Only resources marked with <span style="color:red">red badge</span> are recognized in Bicep generation, more resources will be made available in coming weeks.  
 <p align="left">
     <img src="./imgs/bicep-main.png" width="900" height="600" />
 </p>
