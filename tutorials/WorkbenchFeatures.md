@@ -35,7 +35,7 @@ This is Workbench's diagram format, editing content of this file strongly discou
 Ctrl+S saves diagram to Browser's localstorage.  
 You can only save 1 copy, subsequent saving overrides the previous copy.                
      
-**My Space**  
+**Save to My Space**  
 
 This is your personal space to store and manage your diagrams on Workbench,  
-but you have to sign in using your Azure AD work account for this goodness.
+you have to sign in using Social or your Azure AD work account for this goodness.
