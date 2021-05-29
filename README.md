@@ -38,9 +38,28 @@ Below shows an example of filling up VM properties for VM image and size.
 <p align="left">
     <img src="./imgs/bicep-vm-searchsize.png" width="900" height="600" />
 </p>  
-Example of NSG Inbound and Outboumd rules input.
+Example of NSG Inbound and Outbound rules input.
 <br/>
 <p align="left">
     <img src="./imgs/bicep-vm-nsg.png" width="900" height="600" />
+</p>  
+
+## FreeHand mode  
+Right-click to bring up context menu and select Enable FreeHand mode  
+<br/>
+<p align="left">
+    <img src="./imgs/freehand-contextmenu.png" width="900" height="600" />
+</p>
+<br/>
+Upon enabling FreeHand mode, hitting Alt + S will bring up the FreeHand Style panel allowing you to change stroke color.  
+<b>*When in FreeHand mode, its not able to open other shapes and Azure icons Style pane</b>
+<br/>
+<p align="left">
+    <img src="./imgs/freehand-stylepane.png" width="900" height="600" />
+</p>  
+Draw in free hand
+<br/>
+<p align="left">
+    <img src="./imgs/freehand-draw.png" width="900" height="600" />
 </p>
 
