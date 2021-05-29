@@ -43,6 +43,16 @@ Example of NSG Inbound and Outbound rules input.
 <p align="left">
     <img src="./imgs/bicep-vm-nsg.png" width="900" height="450" />
 </p>  
+After entering all necessary Azure properties, click Generate Bicep
+<br/>
+<p align="left">
+    <img src="./imgs/bicep-gentemplate.png" width="900" height="500" />
+</p>
+Bicep template generated  
+<br/>
+<p align="left">
+    <img src="./imgs/bicep-filetemplate.png" width="900" height="500" />
+</p>  
 
 ## FreeHand mode  
 Right-click to bring up context menu and select Enable FreeHand mode  
