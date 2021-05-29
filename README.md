@@ -1,10 +1,9 @@
 # Azure Workbench
 
-[Azure Workbench](https://www.azureworkbench.com/) is a web tool that you can draw and share Azure diagrams with.  
+[Azure Workbench](https://www.azureworkbench.com/) is a specialized Azure diagram drawing web tool for you to draw, share and also deploy diagrams directly to your Azure Subscriptions.  
 
 **Tutorial**    
 
-You can find the following tutorial in Workbench.
 * [Drawing Diagram](/tutorials/DrawingDiagram.md)
 * [Shortcut Keys](/tutorials/ShortcutKeys.md)
 * [Workbench Features](/tutorials/WorkbenchFeatures.md)
@@ -12,7 +11,7 @@ You can find the following tutorial in Workbench.
 
 **Bugs and Feature Requests**   
 
-Please create issues for bugs and feature requests, appreaciate your feedback.
+Please create issues for bugs and feature requests, appreciate your feedback.
 
 ## Drawing Diagrams
 
@@ -51,13 +50,16 @@ After Sign-In and admin consent granted, select Subscription to deploy diagram.
 **Share & discuss Azure deployment properties**  
 
 Even if you don't wish to deploy diagrams, you can still use Workbench to share and discuss deployment properties  
-to your team mates and customers. This can greatly reduce deployment errors and better improve implementation experience.  
+with your team mates. This can greatly reduce deployment errors and better improve implementation experience.  
 
-<img src="./imgs/draw-resourcevalidation.png" width="600" height="250">
+<img src="./imgs/draw-resourcevalidation.png" width="700" height="340" />  
+Validate certain Azure resources must be in a Subnet
 </br>
 </br> 
-<img src="./imgs/deploy-nsg.png" width="700" height="280">
+<img src="./imgs/deploy-nsg.png" width="700" height="340" />  
+Create NSG security rules on Workbench, Service Tags is supported
 </br>
 </br>
-<img src="./imgs/deploy-vmprop.png" width="700" height="280"> 
+<img src="./imgs/deploy-vmprop.png" width="700" height="360" />  
+Workbench supports creation of VMs with selectable Location, VM Images and Sizes
 

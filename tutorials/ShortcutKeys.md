@@ -7,6 +7,10 @@
 *  Ctrl+Shift+G: Ungroup
 * Alt+A: Open Azure Property pane for Azure resources
 * Alt+S: Open Style pane
+  * when a shape or icon is selected, hit Alt+S
+  * or when "FreeHand" mode is enable, hit Alt+S to change FreeHand drawing stroke color.  
+    *In "FreeHand" mode, shape and icons Style pane will not appear
+* Alt+X: Animate link
 *  Shift+R: Open/Close Resource Palette
 *  Del: Delete one or more selected nodes
 *  Up: Move one or more selected nodes up by 2 pixels
