@@ -3,7 +3,7 @@
 [Azure Workbench](https://www.azureworkbench.com/) is a web based Azure diagram drawing tool with features including  
 * Validate diagram against Azure resource deployment rules
 * Generate Bicep template
-* Save, load and share your diagrams 
+* Save, manage and share your diagrams 
 
 **Tutorial**    
 
@@ -41,7 +41,17 @@ Below shows an example of filling up VM properties for VM image and size.
 Example of NSG Inbound and Outbound rules input.
 <br/>
 <p align="left">
-    <img src="./imgs/bicep-vm-nsg.png" width="900" height="450" />
+    <img src="./imgs/bicep-vm-nsg.png" width="1100" height="600" />
+</p>  
+After entering all necessary Azure properties, click Generate Bicep
+<br/>
+<p align="left">
+    <img src="./imgs/bicep-gentemplate.png" width="900" height="500" />
+</p>
+Bicep template generated  
+<br/>
+<p align="left">
+    <img src="./imgs/bicep-filetemplate.png" width="900" height="500" />
 </p>  
 
 ## FreeHand mode  
