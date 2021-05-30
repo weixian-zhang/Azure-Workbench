@@ -7,10 +7,10 @@
 
 **Tutorial**    
 
+* [Drawing Diagram](/tutorials/DrawingDiagram.md)
 * [Shortcut Keys](/tutorials/ShortcutKeys.md)
 * [My Space](/tutorials/MySpace.md)
-* [Workbench Features](/tutorials/WorkbenchFeatures.md)
-* [Drawing Diagram](/tutorials/DrawingDiagram.md)
+* [Workbench Features](/tutorials/WorkbenchFeatures.md)  
 
 **Bugs and Feature Requests**   
 
