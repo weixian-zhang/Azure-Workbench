@@ -8,14 +8,31 @@ Non-Azure nodes do not represent an Azure resource and therefore are not deploya
 Azure nodes are deployable to Azure and is marked with a red badge.  
 More Azure nodes are made deployable weekly. 
 
-**Draw a link from Node**
-
-Straight, Bezier(curved) and Orthogonal(segmented) connector line are known as Link.  
-In addition to dragging links onto canvas from Resource Palette, you can directly drag link from any node  
-by <ins>mouse-over North South East West bounds of a node, you will see a grey box apprearing.  
-Grey box is known as a Port to any node, hold mouse-down on the Port and drag the Link to any node's Port.</ins> 
-
-#### **Copy & Paste**
+**Draw Links to connect Icons**  
+<br/>
+Hitting S key toggles between straight and orthogonal/angled links.  
+<p align="left">
+    <img src="../imgs/draw-togglelinkSO.png" width="900" height="300" />
+</p>
+<br/>
+As you hover over any of the 4 sides (north, south, east west) of any shapes and Icons, grey Ports will appear.
+<br/>  
+<p align="left">
+    <img src="../imgs/draw-ports.png" width="900" height="300" />
+</p>
+<br />
+Click on the grey Port and drag to any Icon or shape you wish to draw a link to.
+Hit S to toggle between straight and orthogonal/angled links.
+<br/>  
+<p align="left">
+    <img src="../imgs/draw-portlink.png" width="900" height="300" />
+</p>
+<br/>  
+<p align="left">
+    <img src="../imgs/draw-straight_ortholinks.png" width="900" height="300" />
+</p>
+<br/> 
+**Copy & Paste**
 
   * **Copy whole or parts of diagram from another Browser tab**  
   * **Copy images from any snipping tool or print-screen**
