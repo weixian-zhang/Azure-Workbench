@@ -1,7 +1,8 @@
-Api Server: [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20ApiServer?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=10&branchName=dev)  
-Bicep Generator service: [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20PyBicep?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=11&branchName=dev)  
-Portal: [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20Portal?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=9&branchName=dev)
-
+| Dev  | Status | Production  | Status |
+| ------------- | ------------- | ------------- | ------------- |
+| Api Server  | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20ApiServer?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=10&branchName=dev)    | Api Server | |
+| Bicep Generator  | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20PyBicep?branchName=refs%2Fpull%2F66%2Fmerge)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=11&branchName=refs%2Fpull%2F66%2Fmerge)    | Bicep Generator |
+| Portal  | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20Portal?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=9&branchName=dev)  | Portal |
 
 # Azure Workbench
 
