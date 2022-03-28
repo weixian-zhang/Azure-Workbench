@@ -1,3 +1,8 @@
+ApiServer: [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20ApiServer?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=10&branchName=dev)  
+BicepGenerator service: [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20PyBicep?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=11&branchName=dev)  
+Portal: [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20Portal?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=9&branchName=dev)
+
+
 # Azure Workbench
 
 [Azure Workbench](https://www.azureworkbench.com/) is a web based Azure diagram drawing tool with features including  
