@@ -2,7 +2,9 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Api Server  | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20ApiServer?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=10&branchName=dev)    | Api Server | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Prod%20-%20ApiServer?branchName=master)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=12&branchName=master) |
 | Bicep Generator  | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20PyBicep?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=11&branchName=dev)    | Bicep Generator | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Prod%20-%20PyBicep?branchName=master)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=13&branchName=master)
-| Portal  | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20Portal?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=9&branchName=dev)  | Portal |  [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Prod%20-%20Portal?branchName=master)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=14&branchName=master)
+| Portal  | [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Dev%20-%20Portal?branchName=dev)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=9&branchName=dev)  | Portal |  [![Build Status](https://dev.azure.com/weixzha/AzureWorkbench/_apis/build/status/GitHub%20-%20Prod%20-%20Portal?branchName=master)](https://dev.azure.com/weixzha/AzureWorkbench/_build/latest?definitionId=14&branchName=master)  
+
+Current version: 2.1.0
   * Api Server - ASP.NET Core .Net 5
   * Bicep Generator - Python 3.10 Docker
   * Portal - create-react-app, React 16.13, GoJs 2.1, MaterialUI, BluePrintJs
