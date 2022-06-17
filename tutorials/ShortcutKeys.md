@@ -1,6 +1,8 @@
 # Shortcut Keys
 
 * S: Toggle between Straight & Orthogonal connector mode. Allows you to drag straight orthogonal connector directly from node ports
+* Pan/navigate diagram: hold Right-click and drag
+* Select 1 or more icons on canvas: hold Left-click and drag
 * Ctrl + S: Save to diagram browser
 * Ctrl + C / Ctrl+V: Copy/Paste
 * Ctrl + G: Group
