@@ -1,5 +1,6 @@
 # Shortcut Keys
 
+* Space: Click on an icon and hit "Space", canvas will pan to center to icon
 * S: Toggle between Straight & Orthogonal connector mode. Allows you to drag straight orthogonal connector directly from node ports
 * Pan/navigate diagram: hold Right-click and drag
 * Select 1 or more icons on canvas: hold Left-click and drag
